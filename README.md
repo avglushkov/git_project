@@ -1,1 +1,1 @@
-project information
+project informations
